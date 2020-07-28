@@ -35,8 +35,7 @@ class EchoNTimesCommand extends Command
         $string = $input->getArgument('string');
         $i = $input->getOption('iterations');
 
-        while ($i > 0)
-        {
+        while ($i > 0) {
             $output->writeln($string);
             $i--;
         }
