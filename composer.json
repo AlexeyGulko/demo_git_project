@@ -1,0 +1,12 @@
+{
+    "name": "alexeygulko/demo_git_project",
+    "authors": [
+        {
+            "name": "Aexey Gulko",
+            "email": "dev.gulkoalexey@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.1"
+    }
+}
