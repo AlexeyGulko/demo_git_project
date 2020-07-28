@@ -1,0 +1,16 @@
+{
+    "name": "alexeygulko/demo_git_project",
+    "authors": [
+        {
+            "name": "Aleksey Gulko",
+            "email": "dev.gulkoalexey@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.1",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
