@@ -1,3 +1,3 @@
 # demo_git_project
 
-test
+Practice with git
